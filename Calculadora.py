@@ -36,4 +36,5 @@ while True:
         continue
     else:
         break
-     
+     #trabajo hecho en diciembre 2022
+     #todos los derechos no reservados
